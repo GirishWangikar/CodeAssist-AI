@@ -24,7 +24,7 @@ Ensure you have the following installed:
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/CodeAssist-AI.git
+git clone https://github.com/GirishWangikar/CodeAssist-AI
 cd CodeAssist-AI
 
 2. Install the required packages:
