@@ -1,4 +1,5 @@
 # CodeAssist AI
+To know more, check out my blog - [CodeAssist AI: Building A Powerful Coding Assistant](https://medium.com/@girishwangikar/codeassist-ai-59984dcc3b40)
 
 CodeAssist AI is an interactive coding assistant built with Python, Gradio, and Groq. It offers code-related support through a chat interface, allowing users to ask questions about programming and receive assistance in real-time.
 
@@ -50,4 +51,4 @@ python app.py
 
 Created by [Girish Wangikar](https://www.linkedin.com/in/girish-wangikar/)
 
-Check out more on [LinkedIn](https://www.linkedin.com/in/girish-wangikar/) | [Portfolio](https://girishwangikar.github.io/Girish_Wangikar_Portfolio.github.io/)
+Check out more on [LinkedIn](https://www.linkedin.com/in/girish-wangikar/) | [Portfolio](https://girishwangikar.github.io/Girish_Wangikar_Portfolio.github.io/) | [Technical Blog - Medium](https://medium.com/@girishwangikar/codeassist-ai-59984dcc3b40)
